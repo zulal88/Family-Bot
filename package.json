@@ -1,0 +1,13 @@
+{
+  "name": "family-bot",
+  "version": "0.0.0",
+  "description": "hhh, a bot for **normal** family things. >:D",
+  "main": "bot.js",
+  "author": "me, not you",
+  "scripts": {
+    "start": "node bot.js"
+},
+  "dependencies": {
+    "discord.js": "11.1.0",
+  }
+}
